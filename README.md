@@ -71,7 +71,7 @@ Recommends the most effective outreach channel based on historical patient respo
 
 Designed to integrate directly into existing EHR dashboards via **FHIR and HL7 APIs**, eliminating the need for separate systems or logins.
 
-## Implementation Roadmap
+## Solution Roadmap
 <p align = "center">
 <img width="1767" height="993" alt="image" src="https://github.com/user-attachments/assets/14f58c3e-f738-4a09-ae2c-1d636647a0e4" />
 </p>  

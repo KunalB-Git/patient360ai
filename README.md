@@ -1,6 +1,6 @@
 # Patient360AI
 ### Predictive Disengagement Intelligence for Healthcare
-Healthcare AI Product Strategy & System Architecture Case Study
+Healthcare AI Business Case, Design & Product Strategy Case Study
 
 ```text
            +-----------------------+

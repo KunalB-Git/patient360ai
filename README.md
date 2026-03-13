@@ -123,7 +123,7 @@ Designed to integrate directly into existing EHR dashboards via **FHIR and HL7 A
 - Expand to 25+ healthcare systems
 - Implement federated learning to improve models while protecting patient data
 
-- ## Business Impact
+## Business Impact
 
 ### Clinical Impact
 
@@ -141,7 +141,7 @@ Designed to integrate directly into existing EHR dashboards via **FHIR and HL7 A
 - Break-even within 18–24 months
 - Positive cumulative cash flow by Year 2
 
-- ## Long-Term Vision
+## Long-Term Vision
 
 Patient360AI aims to become a leading predictive engagement platform for healthcare systems.
 

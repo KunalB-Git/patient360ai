@@ -82,13 +82,13 @@ Designed to integrate directly into existing EHR dashboards via **FHIR and HL7 A
 - Develop initial disengagement prediction model
 - Validate predictive accuracy (target >70%)
 
-### Phase 1: MVP Deployment (18 months)
+### Phase 1: MVP Deployment (27 months)
 
 - Deploy across 2–3 healthcare systems
 - Demonstrate 15% reduction in no-shows
 - Achieve 2:1 return on investment
 
-### Phase 2: National Scale (60 months)
+### Phase 2: National Scale (87 months)
 
 - Expand to 25+ healthcare systems
 - Implement federated learning to improve models while protecting patient data

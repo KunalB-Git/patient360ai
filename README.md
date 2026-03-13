@@ -2,43 +2,6 @@
 ### Predictive Disengagement Intelligence for Healthcare
 Healthcare AI Business Case, Design & Product Strategy Case Study
 
-```text
-           +-----------------------+
-           |  EHR Systems          |
-           |  (Epic / Cerner)      |
-           +-----------+-----------+
-                       |
-                       v
-           +-----------------------+
-           | Data Integration      |
-           | Layer (FHIR / HL7)    |
-           +-----------+-----------+
-                       |
-                       v
-           +-----------------------+
-           | Behavioral Signal     |
-           | Aggregation Engine    |
-           | (25–30 indicators)    |
-           +-----------+-----------+
-                       |
-                       v
-           +-----------------------+
-           | Predictive Risk Model |
-           | (Explainable AI)      |
-           +-----------+-----------+
-                       |
-                       v
-           +-----------------------+
-           | Next-Best-Action      |
-           | Recommendation Engine |
-           +-----------+-----------+
-                       |
-                       v
-           +-----------------------+
-           | Care Team Dashboard   |
-           | & Patient Worklists   |
-           +-----------------------+
-```
 ## Executive Summary
 
 Patient360AI is a predictive intelligence platform designed to identify patients at risk of disengaging from care **60–90 days in advance**.

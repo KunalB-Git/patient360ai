@@ -93,7 +93,12 @@ Designed to integrate directly into existing EHR dashboards via **FHIR and HL7 A
 - Expand to 25+ healthcare systems
 - Implement federated learning to improve models while protecting patient data
 
+
 ## Business Impact
+
+<p align = "center">
+<img width="1472" height="828" alt="image" src="https://github.com/user-attachments/assets/9e9a9a0d-2900-4c57-852d-9823a260a837" />
+</p>
 
 ### Clinical Impact
 

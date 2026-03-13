@@ -73,6 +73,10 @@ The platform predicts disengagement **60–90 days before dropout** and provides
 
 By embedding insights directly into existing clinical dashboards, Patient360AI supports proactive patient engagement without requiring additional workflows or software systems.
 
+<p align="center">
+<img width="1470" height="825" alt="image" src="https://github.com/user-attachments/assets/fec3198e-f811-4832-841a-55fde02492d3" />
+</p>
+
 ## Key Features
 
 ### Explainable AI
@@ -105,6 +109,9 @@ Recommends the most effective outreach channel based on historical patient respo
 Designed to integrate directly into existing EHR dashboards via **FHIR and HL7 APIs**, eliminating the need for separate systems or logins.
 
 ## Implementation Roadmap
+<p align = "center">
+<img width="1767" height="993" alt="image" src="https://github.com/user-attachments/assets/14f58c3e-f738-4a09-ae2c-1d636647a0e4" />
+</p>  
 
 ### Phase 0: Proof of Concept (9 months)
 

@@ -1,5 +1,5 @@
 # Patient360AI
-### Predictive Disengagement Intelligence for Healthcare
+### Strategic Business Case: Patient360AI - Predictive Disengagement Intelligence for U.S. Healthcare
 Healthcare AI Business Case, Design & Product Strategy Case Study
 
 ## Executive Summary

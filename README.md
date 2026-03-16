@@ -140,4 +140,4 @@ Patient360AI aims to become a leading predictive engagement platform for healthc
   - **Strategic Partnerships:** The company aims to forge alliances with healthcare systems, technology providers and research institutions to accelerate data exchange and platform adoption.
   - **Innovation Culture:** Internally, the goal is to foster an environment that encourages rapid product iteration and collaborative problem solving across business, technical and clinical teams.
 
-Ultimately,the long-term vision is for Pateint360AI to become the leading predictive engatement platform for value-based healthcare organizations, equipping them with tools to drive both operational excellence and superior patient outcomes.
+Ultimately,the long-term vision is for Pateint360AI to become the leading predictive engagement platform for value-based healthcare organizations, equipping them with tools to drive both operational excellence and superior patient outcomes.

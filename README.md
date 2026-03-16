@@ -123,21 +123,21 @@ Patient360AI aims to become a leading predictive engagement platform for healthc
 <b>The long-term objective is to deliver:</b>
 
 1. **Market Expansion and Financial Scale**
-- **National Scaling:** Expand beyond regional pilots to all hospitals and providers within the targeted health system networks nationally acoss the United States
-- **Revenue Target:** The organization aims to achieve significant revenue growth, targeting $12M to $50M in Annual Recurring Revenue (ARR)
- - **Profitability:** A core focus is transitioning from the investment-heavy build phase to achieving sustained profitability
+ - **National Scaling:** Expand beyond regional pilots to all hospitals and providers within the targeted health system networks nationally acoss the United States
+ - **Revenue Target:** The organization aims to achieve significant revenue growth, targeting $12M to $50M in Annual Recurring Revenue (ARR)
+  - **Profitability:** A core focus is transitioning from the investment-heavy build phase to achieving sustained profitability
 
 2. **Clinical Imapct and Scientific Validation**
-- **Quantifiable Outcomes:** The platform sseks to demonstrate mesurable clinical improvements, 25% improvment in patient retention validated through peer-reviewed loggitudinal studies and real-world evidence.
-- **Population Health Leadership:** By continously refining models through diverse clinical datasets and adaptive learning frameworks, the company aspires to be a trusted innovator in AI-driven population health.
+ - **Quantifiable Outcomes:** The platform sseks to demonstrate mesurable clinical improvements, 25% improvment in patient retention validated through peer-reviewed loggitudinal studies and real-world evidence.
+ - **Population Health Leadership:** By continously refining models through diverse clinical datasets and adaptive learning frameworks, the company aspires to be a trusted innovator in AI-driven population health.
 
 3. **Technical and Platform Evolution**
-- **Comprehensive Care Platform:** The end state is a fully integrated solution supporting end-to-end patient engagement, risk prediction and workflow automation across multiple care settings, extending capabilities beyond just disengagement.
-- **Advanced AI Infrastructure:** Long term technical goals include implementing a federated learning data fabric that allows the AI to improve across multiple health systems without centralizing or exposing sensitive Protectd Health Information (PHI).
-- **Global Scalability:** The objective is to build infrastructure and governance that meet global regulatory standards (suvch as GDPR and ISO 27001) to support expansion into international markets.
+ - **Comprehensive Care Platform:** The end state is a fully integrated solution supporting end-to-end patient engagement, risk prediction and workflow automation across multiple care settings, extending capabilities beyond just disengagement.
+ - **Advanced AI Infrastructure:** Long term technical goals include implementing a federated learning data fabric that allows the AI to improve across multiple health systems without centralizing or exposing sensitive Protectd Health Information (PHI).
+ - **Global Scalability:** The objective is to build infrastructure and governance that meet global regulatory standards (suvch as GDPR and ISO 27001) to support expansion into international markets.
 
 4. **Strategic Ecosystem and Culture**
-- **Strategic Partnerships:** The company aims to forge alliances with healthcare systems, technology providers and research institutions to accelerate data exchange and platform adoption.
-- **Innovation Culture:** Internally, the goal is to foster an environment that encourages rapid product iteration and collaborative problem solving across business, tecnical and clinical teams.
+ - **Strategic Partnerships:** The company aims to forge alliances with healthcare systems, technology providers and research institutions to accelerate data exchange and platform adoption.
+ - **Innovation Culture:** Internally, the goal is to foster an environment that encourages rapid product iteration and collaborative problem solving across business, tecnical and clinical teams.
 
 Ultimately,the long-term vision is for Pateint360AI to become the leading predictive engatement platform for value-based healthcare organizations, equipping them with tools to drive both operational excellence and superior patient outcomes.

@@ -123,12 +123,12 @@ Patient360AI aims to become a leading predictive engagement platform for healthc
 <b>The long-term objective is to deliver:</b>
 
 1. **Market Expansion and Financial Scale**
-  - **National Scaling:** Expand beyond regional pilots to all hospitals and providers within the targeted health system networks nationally acoss the United States
-  - **Revenue Target:** The organization aims to achieve significant revenue growth, targeting $12M to $50M in Annual Recurring Revenue (ARR)
-   - **Profitability:** A core focus is transitioning from the investment-heavy build phase to achieving sustained profitability
+  - **National Scaling:** Expand beyond regional pilots to all hospitals and providers within the targeted health system networks nationally acoss the United States.
+  - **Revenue Target:** The organization aims to achieve significant revenue growth, **targeting $12M to $50M in Annual Recurring Revenue (ARR)**
+   - **Profitability:** A core focus is transitioning from the investment-heavy build phase to achieving sustained profitability.
 
 2. **Clinical Imapct and Scientific Validation**
-  - **Quantifiable Outcomes:** The platform sseks to demonstrate mesurable clinical improvements, 25% improvment in patient retention validated through peer-reviewed loggitudinal studies and real-world evidence.
+  - **Quantifiable Outcomes:** The platform sseks to demonstrate mesurable clinical improvements, **25% improvement** in patient retention validated through peer-reviewed longitudinal studies and real-world evidence.
   - **Population Health Leadership:** By continously refining models through diverse clinical datasets and adaptive learning frameworks, the company aspires to be a trusted innovator in AI-driven population health.
 
 3. **Technical and Platform Evolution**

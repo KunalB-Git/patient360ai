@@ -120,7 +120,8 @@ Designed to integrate directly into existing EHR dashboards via **FHIR and HL7 A
 
 Patient360AI aims to become a leading predictive engagement platform for healthcare systems.
 
-The long-term objective is to deliver:
+<b>The long-term objective is to deliver:</b>
+
 1. **Market Expansion and Financial Scale**
 - **National Scaling:** Expand beyond regional pilots to all hospitals and providers within the targeted health system networks nationally acoss the United States
 - **Revenue Target:** The organization aims to achieve significant revenue growth, targeting $12M to $50M in Annual Recurring Revenue (ARR)
@@ -136,7 +137,7 @@ The long-term objective is to deliver:
 - **Global Scalability:** The objective is to build infrastructure and governance that meet global regulatory standards (suvch as GDPR and ISO 27001) to support expansion into international markets.
 
 4. **Strategic Ecosystem and Culture**
--  - **Strategic Partnerships:** The company aims to forge alliances with healthcare systems, technology providers and research institutions to accelerate data exchange and platform adoption
-   -  **Innovation Culture:** Internally, the goal is to foster an environment that encourages rapit product iteration and collaborative problem solving across business, tecnicla and clinical teams
+- **Strategic Partnerships:** The company aims to forge alliances with healthcare systems, technology providers and research institutions to accelerate data exchange and platform adoption.
+- **Innovation Culture:** Internally, the goal is to foster an environment that encourages rapid product iteration and collaborative problem solving across business, tecnical and clinical teams.
 
-Ultimately,the long-term vision is for pateint360AI to become the leading predictive engatement platform for value-based hrealthcare organizations, equipping them with tools to drive both operational excellence and superior patient outcomes.
+Ultimately,the long-term vision is for Pateint360AI to become the leading predictive engatement platform for value-based healthcare organizations, equipping them with tools to drive both operational excellence and superior patient outcomes.

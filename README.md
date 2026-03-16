@@ -133,7 +133,7 @@ Patient360AI aims to become a leading predictive engagement platform for healthc
 
 3. **Technical and Platform Evolution**
   - **Comprehensive Care Platform:** The end state is a fully integrated solution supporting end-to-end patient engagement, risk prediction and workflow automation across multiple care settings, extending capabilities beyond just disengagement.
-  - **Advanced AI Infrastructure:** Long term technical goals include implementing a federated learning data fabric that allows the AI to improve across multiple health systems without centralizing or exposing sensitive Protectd Health Information (PHI).
+  - **Advanced AI Infrastructure:** Long term technical goals include implementing a federated learning data fabric that allows the AI to improve across multiple health systems without centralizing or exposing sensitive Protected Health Information (PHI).
   - **Global Scalability:** The objective is to build infrastructure and governance that meet global regulatory standards (such as GDPR and ISO 27001) to support future expansion into international markets.
 
 4. **Strategic Ecosystem and Culture**

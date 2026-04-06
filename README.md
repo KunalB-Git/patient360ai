@@ -43,7 +43,8 @@ By embedding insights directly into existing clinical dashboards, Patient360AI s
 ## Key Features
 
 ### Model Selection Criteria & Evolution Strategy
-During the initial development and **Proof Of Concept (PoC)**/Phase 0 of the solution, the team selected Decision Trees and Logistic Regrerssion as the primary AI models. This choice was driven by the need to balance performance with transparency and practical usability in a clinical setting.
+During the initial development and **Proof Of Concept (PoC)**/Phase 0 of the solution, the team selected Decision Trees and Logistic Regrerssion as the primary AI models. This choice was driven by the need to balance performance with transparency and practical usability in a clinical setting. **Example:** Patient flagged due to missed prescription refills and recent appointment cancellations.
+
 
 These models were chosen for several key reasons:
 1. **Explainability:** Both Decision Trees and Logistic Regression as the primary AI Models. This choice was driven by the need to balance performance with transparency and practical usability in a clinical setting.
@@ -57,12 +58,6 @@ The plaform follows a deliberate strategy of model progression as data volume an
 2. **Advanced Models (Phase 2/Enterprise Scale):** In the later stage **Neural Networks** will be exloredm only if simpler models reach their performance linits and additional accuray gains are required at scale.
    - **Pattern Recognition (Supplementary):** Clustering techniques will be used to identify distinct patient personas and patterns of disengagement behavior.
   
-### Explainable AI
-
-Uses interpretable models such as decision trees to generate transparent risk drivers rather than opaque "black-box" scores.
-
-Example:
-Patient flagged due to missed prescription refills and recent appointment cancellations.
 
 ### Behavioral Signal Aggregation
 

@@ -1,6 +1,9 @@
 ### Strategic Business Case: Patient360AI - Predictive Disengagement Intelligence for U.S. Healthcare
 
-Healthcare AI Business Case, Design & Product Strategy Case Study
+**Healthcare AI Business Case, Design & Product Strategy Case Study**
+<p align="center">
+<img width="604" height="1066" alt="image" src="https://github.com/user-attachments/assets/9fd3b12e-f935-4d45-ae0c-6eec51c014ca" />
+</p>
 
 ## Executive Summary
 
@@ -55,7 +58,7 @@ During the initial development and **Proof Of Concept (PoC)**/Phase 0 of the sol
 The plaform follows a deliberate strategy of model progression as data volume and system maturity increases: 
 
 1. **Ensemble Methods (Phase 1/MVP & Pilot):** Afer intitial validation and data expansion, the platform will introduce Ensemble techniques such as **Random Forests and Gradient Boosting.** These  methods enhance predictive accuracy by combining multiple Decision Trees while maintaining a reasonable level of interpretability.
-2. **Advanced Models (Phase 2/Enterprise Scale):** In the later stage **Neural Networks** will be exlored only if simpler models reach their performance linits and additional accuray gains are required at scale.
+2. **Advanced Models (Phase 2/Enterprise Scale):** In the later stage **Neural Networks** will be explored only if simpler models reach their performance limits and additional accuray gains are required at scale.
    - **Pattern Recognition (Supplementary):** Clustering techniques will be used to identify distinct patient personas and patterns of disengagement behavior.
 
 ### Behavioral Signal Aggregation

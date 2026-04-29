@@ -1,9 +1,31 @@
-### Strategic Business Case: Patient360AI - Predictive Disengagement Intelligence for U.S. Healthcare
+# Strategic Business Case: Patient360AI  
 
-**Healthcare AI Business Case, Design & Product Strategy Case Study**
-<p align="center">
-<img width="604" height="1066" alt="image" src="https://github.com/user-attachments/assets/9fd3b12e-f935-4d45-ae0c-6eec51c014ca" />
-</p>
+*Healthcare AI Business Case, Design & Product Strategy Case Study*
+
+---
+
+> [!IMPORTANT]  
+> **Note to Readers**  
+> This repository contains a **curated excerpt** of a comprehensive 81-page capstone case study titled *Patient360AI – Predictive Disengagement Intelligence for U.S. Healthcare.*  
+>  
+> The content below highlights key sections, insights, and solution design, and does **not** represent the full document.  
+>  
+> **About This Document**  
+> This README presents a **selected excerpt** focused on the problem framing, product strategy, and solution approach behind Patient360AI.  
+>  
+> The complete case study includes detailed research, data models, financial analysis, and implementation frameworks that are not fully represented here.
+
+---
+
+### 📌 Case Study Snapshot
+- **Domain:** U.S. Healthcare / Value-Based Care  
+- **Focus:** AI-Driven Patient Engagement & Disengagement Prediction  
+- **Scope:** Product Strategy, AI Model Design, Business Case, Implementation Roadmap  
+- **Type:** Capstone Project (Excerpt)
+
+---
+<img width="374" height="664" alt="Capstone_Patient360AI" src="https://github.com/user-attachments/assets/b7db381e-ad63-484b-a6da-6446a5c517a6" />
+
 
 ## Executive Summary
 

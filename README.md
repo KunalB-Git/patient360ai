@@ -2,19 +2,19 @@
 
 *Healthcare AI Business Case, Design & Product Strategy Case Study*
 
+**PGP in AI Leadership – The University of Texas at Austin**
 ---
 
 > [!IMPORTANT]  
 > **Note to Readers**  
-> This repository contains a **curated excerpt** of a comprehensive 81-page capstone case study titled *Patient360AI – Predictive Disengagement Intelligence for U.S. Healthcare.*  
+> This repository presents a curated excerpt from an 81-page capstone case study, *Patient360AI – Predictive Disengagement Intelligence for U.S. Healthcare*, completed as part of the **Post Graduate Program (PGP) in AI Leadership at The University of Texas at Austin**.  
 >  
 > The content below highlights key sections, insights, and solution design, and does **not** represent the full document.  
 >  
 > **About This Document**  
-> This README presents a **selected excerpt** focused on the problem framing, product strategy, and solution approach behind Patient360AI.  
+> This README presents a selected excerpt focused on the **problem framing, product strategy, and solution approach** behind Patient360AI.  
 >  
 > The complete case study includes detailed research, data models, financial analysis, and implementation frameworks that are not fully represented here.
-
 ---
 
 ### 📌 Case Study Snapshot
